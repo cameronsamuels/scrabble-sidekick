@@ -1,2 +1,2 @@
-# scrabble-sidekick
-Scrabble word value calculator
+**Scrabble Sidekick**
+<br>Scrabble word value calculator
