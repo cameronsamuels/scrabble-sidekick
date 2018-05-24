@@ -1,0 +1,27 @@
+@font-face {
+  font-family: font;
+  src: url(font.woff) format("woff");
+}
+body {
+  margin: 0;
+  background: #eee;
+  font-family: sans-serif;
+}
+input {
+  width: 250px;
+  border-radius: 0;
+  padding: 10px;
+  border: solid;
+  -webkit-appearance: none;
+  margin: auto;
+  font: 20px font;
+  text-transform: uppercase;
+  outline: 0;
+}
+div {
+  font-size: 33vh;
+}
+body, input {
+  text-align: center;
+  color: #555;
+}
